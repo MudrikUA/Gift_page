@@ -83,6 +83,12 @@ body {
     width: 300px;
 }
 
+.cong-msg {
+    padding: 35px;
+    font-size: large;
+    text-align: justify;
+}
+
 .hidden {
     display: none;
 }

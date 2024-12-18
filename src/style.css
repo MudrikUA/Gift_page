@@ -55,6 +55,12 @@ body {
     padding: 15px;
 }
 
+.exercise-err{
+    margin-top: -15px;
+    font-size: small;
+    color: firebrick;
+}
+
 .photo-container {
     display: flex;
     flex-direction: column;

@@ -76,9 +76,10 @@ body {
 }
 
 .photo {
-    background-image: url(img/mock-img.png);
+    background-image: url(img/gift1.png);
     background-size: contain;
     background-repeat: no-repeat;
+    background-position: center;
     height: 300px;
     width: 300px;
 }
